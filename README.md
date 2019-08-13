@@ -3,10 +3,14 @@
 
 ## 已实现
 - [x] 双花括号绑定
-- x-name指令绑定
-- @click事件绑定
-- x-model双向绑定
-
+- [x] x-name指令绑定
+- [x] @click事件绑定
+- [x] x-model双向绑定
+- [ ] x-bind
+- [ ] :name
+- [ ] x-on:click
+- [ ] ...
+ 
 ## 实现的类
 - XVue 框架类
 - Dep 依赖管理类
